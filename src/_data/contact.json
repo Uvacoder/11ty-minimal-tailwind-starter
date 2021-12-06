@@ -1,20 +1,20 @@
 {
     "items": [
         {
-            "name": "test@example.com",
-            "link": "mailto:test@example.com"
+            "name": "freeunioncoder@gmail.com",
+            "link": "mailto:freeunioncoder@gmail.com"
         },
         {
             "name": "Twitter",
-            "link": "https://twitter.com/…"
+            "link": "https://twitter.com/AlecCam43544378"
         },
         {
             "name": "GitHub",
-            "link": "https://github.com/…"
+            "link": "https://github.com/uvacoder"
         },
         {
             "name": "CodePen",
-            "link": "https://codepen.io/…"
+            "link": "https://codepen.io/uvacoder"
         }
     ]
 }
